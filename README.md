@@ -1,2 +1,2 @@
-﻿                                                                        # NETFLIX_CLONE
+ # NETFLIX_CLONE
                                                                          
